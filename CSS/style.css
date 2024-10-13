@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    background: #071A2B;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
+    padding-bottom: 150px;
+    padding: 10px;
+}
+.quote{
+    color: white;
+    text-align: right;
+    font-size: 60px;
+    font-family: cursive;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: transparent;
+    padding-right: 20px;
+    
+}
+.pheading{
+    color: #fff;
+    text-align: right;
+    background-color: transparent;
+    padding-top: 30px;
+    margin-left: 30%;
+    padding-right: 20px;
+    
+}
+.types{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    color: #fff;
+    font-family:monospace;
+}
+
+.content-table{
+   border-collapse: collapse ;
+   margin: auto;
+   margin-bottom: 60px;
+  width: 70%;
+  box-shadow: 0 0 30px ;
+  
+  
+
+}
+th{
+    background-color: red;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+}
+th,td{
+    
+    padding: 15px;
+    width: 33% ;
+    text-align: left;
+    border: 1px solid #f70303;
+    vertical-align: top;
+   
+}
+.type{
+    padding: 15px;
+    justify-content: center;
+    line-height: 2;
+}
+.price-type{
+    text-align: center;
+    vertical-align: middle;
+}
+td.imgtype{
+    text-align: center;
+}
+ul li{
+    margin-bottom: 5px;
+}
+
+
+tr{
+    color: #FFF;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: red;
+}
+.bookNow{
+    text-align: center;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #4f2d18;
+}
+#footpara{
+    color: white;
+    background-color: transparent;
+    padding-right: 50px;
+}
